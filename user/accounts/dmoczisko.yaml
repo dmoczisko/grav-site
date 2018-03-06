@@ -1,0 +1,13 @@
+email: danny.moczisko@gmail.com
+fullname: 'Danny Moczisko'
+title: 'Senior Hacker'
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$cwplsY1HZpxcnHa71Hf5lepYZjchuU5lfKqYDhqZ2U4TRJbvFvK9C
+authorized: true
+twofa_secret: HOP7UUJRFMBBV4MDTB7AELSU2DVTBZG2
